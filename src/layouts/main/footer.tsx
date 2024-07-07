@@ -65,7 +65,7 @@ export default function Footer() {
         <Typography variant="caption" component="div">
           © All rights reserved
           <br /> made by
-          <Link href="https://www.instagram.com/umedzhonizbasarov/" target="_blank"> umed </Link>
+          <Link href="https://www.instagram.com/umedzhonizbasarov/" target="_blank"> Umedzhon Izbasarov </Link>
         </Typography>
       </Container>
     </Box>
