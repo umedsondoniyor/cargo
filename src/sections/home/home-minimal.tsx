@@ -50,8 +50,8 @@ const CARDS = [
       <Box
         component="img"
         borderRadius={3}
-        src="/assets/background/dunyocargo1.jpg"
-        sx={{ width: 1000, cursor: 'pointer',my:3}}
+        src="/assets/background/cargo_staff.jpg"
+        sx={{ width: 500, cursor: 'pointer',my:3}}
       />
     );
 

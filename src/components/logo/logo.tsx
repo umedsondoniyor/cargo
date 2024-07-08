@@ -53,8 +53,8 @@ const Logo = forwardRef<HTMLDivElement, LogoProps>(
     }
 
     return (
-      <Link component={RouterLink} href="/" sx={{ display: 'contents' }}>
-        {logo}
+      <Link component={RouterLink} href="/" sx={{ display: 'contents', typography:'h5' }}>
+        TojTrans
       </Link>
     );
   }
